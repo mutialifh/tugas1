@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 halo
+=======
+haiii
+>>>>>>> feature/2
