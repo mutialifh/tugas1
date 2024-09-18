@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mengubah file4
+=======
+halo
+>>>>>>> feature/3

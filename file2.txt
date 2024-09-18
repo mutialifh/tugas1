@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 halo
 =======
 haiii
 >>>>>>> feature/2
+=======
+kiww kiw
+>>>>>>> feature/3
